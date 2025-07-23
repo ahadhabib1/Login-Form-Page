@@ -1,0 +1,107 @@
+body{
+    background-color: rgb(73, 71, 71);
+}
+
+.buttons{
+    padding-top:50px;
+    padding-left: 30%;
+    
+    
+}
+#first-button{
+    padding: 10px 90px;
+     font-size: 1rem;
+     margin-right: -4px;
+     background-color: rgb(8, 192, 168);
+     border: none;
+     color: aliceblue;
+     cursor: pointer;
+
+}
+#second-button{
+    padding: 10px 90px;
+    font-size: 1rem;
+    border: none;
+    color: rgb(112, 108, 104);
+      cursor: pointer;
+
+}
+#h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5%;
+    padding-right: 5%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular' ;
+}
+ 
+.first{
+    padding: 4px,8px;
+    margin-left: 30%;
+    font-size: 1rem;
+    padding-left: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(73, 71, 71);
+     border: solid;
+     border-color: rgb(184, 176, 176) ;
+     
+    
+
+}
+.last{
+    
+   
+    font-size: 1rem;
+    padding-left: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(73, 71, 71);
+     border: solid;
+     border-color: rgb(184, 176, 176) ;
+     margin-left: 25px;
+
+}
+.mail{
+    margin-left: 30%;
+    margin-top: 2%;
+background-color: rgb(73, 71, 71);
+     border: solid;
+     border-color: rgb(184, 176, 176) ;
+     width: 436px;
+    font-size: 1rem;
+    padding-left: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.pwd{
+ margin-left: 30%;
+    margin-top: 2%;
+background-color: rgb(73, 71, 71);
+     border: solid;
+     border-color: rgb(184, 176, 176) ;
+     width: 436px;
+    font-size: 1rem;
+    padding-left: 1%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+ #BUtton {
+      background-color: rgb(8, 192, 168);
+      color: white;
+      padding: 10px;
+      margin-left: 30%;
+      margin-top: 3%;
+      width: 34%;
+      border: none;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 2rem;
+      letter-spacing: 3px;
+      cursor: pointer;
+    }
+
+
+
+ 
+
